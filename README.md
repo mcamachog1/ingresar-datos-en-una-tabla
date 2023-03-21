@@ -8,6 +8,9 @@ Los datos se guardaran en el modelo y luego serán mostrados
 - 2 funciones en views.py
 - 1 modelo
 
+# Importante!
+Después de levantar la aplicación, correr desde el terminal 
+$ python manage.py loaddata carga_inicial.json
 
 Este proyecto usa el template Django descrito abajo
 

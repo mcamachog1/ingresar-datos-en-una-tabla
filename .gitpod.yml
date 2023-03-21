@@ -6,7 +6,6 @@ tasks:
       pip install Django
       python manage.py migrate
   - command: |
-      source venv/bin/activate
       python manage.py runserver
   
 ports:

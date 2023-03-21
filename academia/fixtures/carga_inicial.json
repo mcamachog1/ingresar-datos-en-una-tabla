@@ -1,0 +1,34 @@
+[
+    {
+        "model": "academia.nota",
+        "pk": 1,  
+        "fields": {
+            "nombre_alumno": "Mickey Mouse",
+            "grado_alumno":"5to grado"
+        }
+    },
+    {
+        "model": "academia.nota",
+        "pk": 2,  
+        "fields": {
+            "nombre_alumno": "Minnie Mouse",
+            "grado_alumno":"5to grado"
+        }
+    },
+    {
+        "model": "academia.nota",
+        "pk": 3,  
+        "fields": {
+            "nombre_alumno": "Pebbles Picapiedra",
+            "grado_alumno":"3er grado"
+        }
+    },
+    {
+        "model": "academia.nota",
+        "pk": 4,  
+        "fields": {
+            "nombre_alumno": "Bam-Bam Marmol",
+            "grado_alumno":"3er grado"
+        }
+    }        
+]
