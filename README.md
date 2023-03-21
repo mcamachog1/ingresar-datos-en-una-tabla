@@ -1,6 +1,6 @@
 # Tabla para ingresar datos
 
-Este proyecto permite permite mostrar una tabla con una columna (input) habilitada para ingresar datos.
+Este proyecto permite mostrar una tabla con una columna (input) habilitada para ingresar datos.
 Los datos se guardaran en el modelo y luego serán mostrados
 
 ## Este proyecto tiene:
