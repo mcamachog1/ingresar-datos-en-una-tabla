@@ -1,3 +1,16 @@
+# Tabla para ingresar datos
+
+Este proyecto permite permite mostrar una tabla con una columna (input) habilitada para ingresar datos.
+Los datos se guardaran en el modelo y luego serán mostrados
+
+## Este proyecto tiene:
+- 2 archivos html (templates)
+- 2 funciones en views.py
+- 1 modelo
+
+
+Este proyecto usa el template Django descrito abajo
+
 # A Python Django template on Gitpod
 
 This is a [Python Django](https://www.djangoproject.com) template configured for ephemeral cloud development environments on [Gitpod](https://www.gitpod.io/).
