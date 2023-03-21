@@ -10,6 +10,9 @@ Los datos se guardaran en el modelo y luego serán mostrados
 
 # Importante!
 Después de levantar la aplicación, correr desde el terminal 
+
+$ python manage.py makemigrations
+$ python manage.py migrate
 $ python manage.py loaddata carga_inicial.json
 
 Este proyecto usa el template Django descrito abajo

@@ -1,34 +1,34 @@
 [
     {
-        "model": "academia.nota",
+        "model": "academia.evaluacion",
         "pk": 1,  
         "fields": {
-            "nombre_alumno": "Mickey Mouse",
-            "grado_alumno":"5to grado"
+            "nombre": "Mickey",
+            "apellido":"Mouse"
         }
     },
     {
-        "model": "academia.nota",
+        "model": "academia.evaluacion",
         "pk": 2,  
         "fields": {
-            "nombre_alumno": "Minnie Mouse",
-            "grado_alumno":"5to grado"
+            "nombre": "Minnie",
+            "apellido":" Mouse"
         }
     },
     {
-        "model": "academia.nota",
+        "model": "academia.evaluacion",
         "pk": 3,  
         "fields": {
-            "nombre_alumno": "Pebbles Picapiedra",
-            "grado_alumno":"3er grado"
+            "nombre": "Pebbles",
+            "apellido":"Picapiedra"
         }
     },
     {
-        "model": "academia.nota",
+        "model": "academia.evaluacion",
         "pk": 4,  
         "fields": {
-            "nombre_alumno": "Bam-Bam Marmol",
-            "grado_alumno":"3er grado"
+            "nombre": "Bam-Bam",
+            "apellido":"Marmol"
         }
     }        
 ]
